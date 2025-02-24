@@ -1,0 +1,32 @@
+{
+  "name": "api-solid",
+  "version": "1.0.0",
+  "description": "- (❌) **User Registration:** The system must allow users to register.",
+  "main": "index.js",
+  "scripts": {
+    "start:dev":  "tsx watch src/server.ts",
+    "start": "node build/server.js",
+    "build": "tsup src --out-dir build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mthszr/API_SOLID.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthszr/API_SOLID/issues"
+  },
+  "homepage": "https://github.com/mthszr/API_SOLID#readme",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/node": "^22.13.5",
+    "tsup": "^8.3.6",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "fastify": "^5.2.1"
+  }
+}
