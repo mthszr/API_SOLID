@@ -1,7 +1,7 @@
 # Functional Requirements (FR)
-- (❌) **User Registration:** The system must allow users to register.
+- (✅) **User Registration:** The system must allow users to register.
 
-- (❌) **Authentication:** The system must enable user authentication.
+- (✅) **Authentication:** The system must enable user authentication.
 
 - (❌) **Profile Retrieval:** The system must allow logged-in users to retrieve their profiles.
 
@@ -37,7 +37,7 @@
 # Non-Functional Requirements (NFR)
 - (✅) **Password Encryption:** User passwords must be stored in an encrypted format.
 
-- (❌) **Data Persistence:** Application data must be stored in a PostgreSQL database.
+- (✅) **Data Persistence:** Application data must be stored in a PostgreSQL database.
 
 - (❌) **Data Pagination:** All data lists must be paginated, displaying 20 items per page.
 
