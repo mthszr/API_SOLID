@@ -21,7 +21,7 @@
 
 
 # Business Rules (BR)
-- (❌) **Unique Email:** The system must not allow the registration of users with duplicate emails.
+- (✅) **Unique Email:** The system must not allow the registration of users with duplicate emails.
 
 - (❌) **Daily Check-in Limit:** Users cannot perform more than one check-in per day.
 
@@ -35,7 +35,7 @@
 
 
 # Non-Functional Requirements (NFR)
-- (❌) **Password Encryption:** User passwords must be stored in an encrypted format.
+- (✅) **Password Encryption:** User passwords must be stored in an encrypted format.
 
 - (❌) **Data Persistence:** Application data must be stored in a PostgreSQL database.
 
