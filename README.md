@@ -23,7 +23,7 @@
 # Business Rules (BR)
 - (✅) **Unique Email:** The system must not allow the registration of users with duplicate emails.
 
-- (❌) **Daily Check-in Limit:** Users cannot perform more than one check-in per day.
+- (✅) **Daily Check-in Limit:** Users cannot perform more than one check-in per day.
 
 - (❌) **Check-in Proximity:** Users can only check in if they are within a maximum distance of 100 meters from the gym.
 
