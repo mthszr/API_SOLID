@@ -13,7 +13,7 @@
 
 - (❌) **Search for Gyms by Name:** The system must enable users to search for gyms using their name as a criterion.
 
-- (❌) **Perform Check-in:** The system must allow users to check in at a gym.
+- (✅) **Perform Check-in:** The system must allow users to check in at a gym.
 
 - (❌) **Check-in Validation:** The system must enable validation of a user's check-in.
 
