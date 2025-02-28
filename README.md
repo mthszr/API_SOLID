@@ -17,7 +17,7 @@
 
 - (❌) **Check-in Validation:** The system must enable validation of a user's check-in.
 
-- (❌) **Gym Registration:** The system must allow the registration of new gyms.
+- (✅) **Gym Registration:** The system must allow the registration of new gyms.
 
 
 # Business Rules (BR)
