@@ -25,7 +25,7 @@
 
 - (✅) **Daily Check-in Limit:** Users cannot perform more than one check-in per day.
 
-- (❌) **Check-in Proximity:** Users can only check in if they are within a maximum distance of 100 meters from the gym.
+- (✅) **Check-in Proximity:** Users can only check in if they are within a maximum distance of 100 meters from the gym.
 
 - (❌) **Check-in Time Validation:** Check-in validation must occur within 20 minutes of its creation.
 
