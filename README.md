@@ -15,7 +15,7 @@
 
 - (✅) **Perform Check-in:** The system must allow users to check in at a gym.
 
-- (❌) **Check-in Validation:** The system must enable validation of a user's check-in.
+- (✅) **Check-in Validation:** The system must enable validation of a user's check-in.
 
 - (✅) **Gym Registration:** The system must allow the registration of new gyms.
 
