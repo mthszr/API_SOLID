@@ -3,11 +3,11 @@
 
 - (✅) **Authentication:** The system must enable user authentication.
 
-- (❌) **Profile Retrieval:** The system must allow logged-in users to retrieve their profiles.
+- (✅) **Profile Retrieval:** The system must allow logged-in users to retrieve their profiles.
 
-- (❌) **Check-in Count:** The system must display the total number of check-ins performed by the authenticated user.
+- (✅) **Check-in Count:** The system must display the total number of check-ins performed by the authenticated user.
 
-- (❌) **Check-in History:** Users must be able to access their check-in history.
+- (✅) **Check-in History:** Users must be able to access their check-in history.
 
 - (❌) **Search for Nearby Gyms:** The system must allow users to locate gyms near their location.
 
@@ -39,6 +39,6 @@
 
 - (✅) **Data Persistence:** Application data must be stored in a PostgreSQL database.
 
-- (❌) **Data Pagination:** All data lists must be paginated, displaying 20 items per page.
+- (✅) **Data Pagination:** All data lists must be paginated, displaying 20 items per page.
 
 - (❌) **Authentication with JWT:** User identification and authentication must be performed using JSON Web Tokens (JWT).
