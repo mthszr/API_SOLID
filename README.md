@@ -27,7 +27,7 @@
 
 - (✅) **Check-in Proximity:** Users can only check in if they are within a maximum distance of 100 meters from the gym.
 
-- (❌) **Check-in Time Validation:** Check-in validation must occur within 20 minutes of its creation.
+- (✅) **Check-in Time Validation:** Check-in validation must occur within 20 minutes of its creation.
 
 - (❌) **Admin Validation:** Only administrators can validate check-ins.
 
