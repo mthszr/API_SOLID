@@ -9,9 +9,9 @@
 
 - (✅) **Check-in History:** Users must be able to access their check-in history.
 
-- (❌) **Search for Nearby Gyms:** The system must allow users to locate gyms near their location.
+- (✅) **Search for Nearby Gyms:** The system must allow users to locate gyms near their location within 100 kilometers.
 
-- (❌) **Search for Gyms by Name:** The system must enable users to search for gyms using their name as a criterion.
+- (✅) **Search for Gyms by Name:** The system must enable users to search for gyms using their name as a criterion.
 
 - (✅) **Perform Check-in:** The system must allow users to check in at a gym.
 
